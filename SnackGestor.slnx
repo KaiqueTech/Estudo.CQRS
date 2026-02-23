@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Items/">
+    <File Path="docker-compose.yaml" />
+  </Folder>
+  <Project Path="SnackGestor.Api/SnackGestor.Api.csproj" />
+  <Project Path="SnackGestor.Application/SnackGestor.Application.csproj" />
+  <Project Path="SnackGestor.Domain/SnackGestor.Domain.csproj" />
+  <Project Path="SnackGestor.Infra/SnackGestor.Infra.csproj" />
+</Solution>

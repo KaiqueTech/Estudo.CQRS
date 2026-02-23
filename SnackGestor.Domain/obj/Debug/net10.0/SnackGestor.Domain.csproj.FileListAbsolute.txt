@@ -1,0 +1,11 @@
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\bin\Debug\net10.0\SnackGestor.Domain.deps.json
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\bin\Debug\net10.0\SnackGestor.Domain.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\bin\Debug\net10.0\SnackGestor.Domain.pdb
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.AssemblyInfoInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.AssemblyInfo.cs
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.csproj.CoreCompileInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\refint\SnackGestor.Domain.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.pdb
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\ref\SnackGestor.Domain.dll

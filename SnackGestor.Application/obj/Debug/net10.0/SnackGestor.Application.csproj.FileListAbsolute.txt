@@ -1,0 +1,15 @@
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\bin\Debug\net10.0\SnackGestor.Application.deps.json
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\bin\Debug\net10.0\SnackGestor.Application.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\bin\Debug\net10.0\SnackGestor.Application.pdb
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\bin\Debug\net10.0\SnackGestor.Domain.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\bin\Debug\net10.0\SnackGestor.Domain.pdb
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.csproj.AssemblyReference.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.AssemblyInfoInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.AssemblyInfo.cs
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.csproj.CoreCompileInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGes.A96F8688.Up2Date
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\refint\SnackGestor.Application.dll
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.pdb
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\ref\SnackGestor.Application.dll

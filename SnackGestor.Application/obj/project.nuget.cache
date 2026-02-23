@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOA942MaAlM=",
+  "success": true,
+  "projectFilePath": "D:\\Pessoal\\Kaique\\C#\\Projetos\\SnackGestor\\SnackGestor.Application\\SnackGestor.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
