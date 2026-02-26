@@ -1,5 +1,4 @@
 ﻿using SnackGestor.Domain.Common;
-using System.Runtime.CompilerServices;
 
 namespace SnackGestor.Domain.Models
 {
@@ -13,7 +12,7 @@ namespace SnackGestor.Domain.Models
             Name = name;
         }
 
-        protected static CategoriaModel CreateCategory(string name)
+        public static CategoriaModel CreateCategory(string name)
         {
             if(string.IsNullOrWhiteSpace(name))
                 throw new ArgumentNullException(nameof(name));

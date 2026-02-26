@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnackGestor.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939a161f79fd2359bc4c78c7f1cf28276a1b1c96")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnackGestor.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnackGestor.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

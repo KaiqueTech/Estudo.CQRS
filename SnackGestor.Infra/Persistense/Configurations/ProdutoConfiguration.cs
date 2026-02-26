@@ -12,7 +12,7 @@ namespace SnackGestor.Infra.Persistense.Configurations
 
             builder.HasKey(p => p.Id);
 
-            builder.Property(p => p.Name)
+            builder.Property(p => p.Nome)
                 .IsRequired()
                 .HasMaxLength(150);
 
@@ -23,7 +23,7 @@ namespace SnackGestor.Infra.Persistense.Configurations
             builder.Property(p => p.Ativo)
                 .IsRequired();
 
-            builder.HasIndex(p => p.Name);
+            builder.HasIndex(p => p.Nome);
 
             builder.Property(p => p.CreatedAt);
             builder.Property(p => p.UpdatedAt);

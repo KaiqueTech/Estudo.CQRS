@@ -8,5 +8,7 @@ namespace SnackGestor.Application.Abstractions.Persistence
         Task UpdateAsync(ProdutoModel produto);
         Task<ProdutoModel?> GetByIdAsync(Guid id);
         Task<List<ProdutoModel>> GetAllAsync();
+        Task<bool> ExistingProductName(string nome);
+        Task DeleteProduct(ProdutoModel produto);
     }
 }

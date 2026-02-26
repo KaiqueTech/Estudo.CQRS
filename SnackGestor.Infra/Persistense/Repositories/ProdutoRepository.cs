@@ -12,6 +12,12 @@ namespace SnackGestor.Infra.Persistense.Repositories
             await context.Produtos.AddAsync(produto);
         }
 
+        public async Task<bool> ExistingProductName(string nome)
+        {
+            var productName = await context.Produtos.FirstOrDefaultAsync(p => p.Nome == nome);
+            return productName != null;
+        }
+
         public async Task<List<ProdutoModel>> GetAllAsync()
         {
             return await context.Produtos
@@ -28,6 +34,11 @@ namespace SnackGestor.Infra.Persistense.Repositories
         public async Task UpdateAsync(ProdutoModel produto)
         {
             context.Produtos.Update(produto);
+        }
+
+        public async Task DeleteProduct(ProdutoModel produto)
+        {
+            context.Produtos.Remove(produto);
         }
     }
 }

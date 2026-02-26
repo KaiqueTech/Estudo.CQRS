@@ -1,7 +1,7 @@
 ﻿using SnackGestor.Application.Abstractions.Messaging;
-using SnackGestor.Application.Produtos.DTOs;
+using SnackGestor.Application.DTOs.Produtos;
 
-namespace SnackGestor.Application.Produtos.Queries.Produtos
+namespace SnackGestor.Application.Queries.Produtos
 {
     public record ListarProdutosQuery() : IQuery<IEnumerable<ProdutoDto>>;
 }

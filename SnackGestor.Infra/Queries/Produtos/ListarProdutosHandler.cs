@@ -1,8 +1,8 @@
 ﻿using Dapper;
 using SnackGestor.Application.Abstractions.Data;
 using SnackGestor.Application.Abstractions.Messaging;
-using SnackGestor.Application.Produtos.DTOs;
-using SnackGestor.Application.Produtos.Queries.Produtos;
+using SnackGestor.Application.DTOs.Produtos;
+using SnackGestor.Application.Queries.Produtos;
 
 namespace SnackGestor.Infra.Queries.Produtos;
 

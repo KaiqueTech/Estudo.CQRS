@@ -1,10 +1,10 @@
 ﻿using SnackGestor.Application.Abstractions.Messaging;
 using SnackGestor.Application.Abstractions.Persistence;
-using SnackGestor.Application.Produtos.Commands;
+using SnackGestor.Application.Commands.Produtos;
 using SnackGestor.Domain.Abstractions;
 using System.Net;
 
-namespace SnackGestor.Application.Produtos.Handlers
+namespace SnackGestor.Application.Handlers.Produtos
 {
     public class UpdateProdutoCommandHandler(IProdutoRepository repo, IUnitOfWork unitOfWork) : ICommandHandler<UpdateProductCommand, bool>
     {

@@ -5,6 +5,7 @@ D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\S
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.AssemblyInfoInputs.cache
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.AssemblyInfo.cs
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.csproj.CoreCompileInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.sourcelink.json
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.dll
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\refint\SnackGestor.Domain.dll
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Domain\obj\Debug\net10.0\SnackGestor.Domain.pdb

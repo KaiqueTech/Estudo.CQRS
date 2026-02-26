@@ -16,6 +16,14 @@
           "SnackGestor.Api.dll": {}
         }
       },
+      "Dapper/2.1.66": {
+        "runtime": {
+          "lib/net8.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.66.48463"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "runtime": {
           "lib/net6.0/Humanizer.dll": {
@@ -428,6 +436,17 @@
           }
         }
       },
+      "Scrutor/7.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyModel": "10.0.3"
+        },
+        "runtime": {
+          "lib/net10.0/Scrutor.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
       "System.CodeDom/6.0.0": {
         "runtime": {
           "lib/net6.0/System.CodeDom.dll": {
@@ -517,9 +536,11 @@
       },
       "SnackGestor.Infra/1.0.0": {
         "dependencies": {
+          "Dapper": "2.1.66",
           "Microsoft.EntityFrameworkCore": "10.0.3",
           "Npgsql": "10.0.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0",
+          "Scrutor": "7.0.0",
           "SnackGestor.Application": "1.0.0"
         },
         "runtime": {
@@ -536,6 +557,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Dapper/2.1.66": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/q77jUgDOS+bzkmk3Vy9SiWMaetTw+NOoPAV0xPBsGVAyljd5S6P+4RUW7R3ZUGGr9lDRyPKgAMj2UAOwvqZYw==",
+      "path": "dapper/2.1.66",
+      "hashPath": "dapper.2.1.66.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",
@@ -669,6 +697,13 @@
       "sha512": "sha512-E2+uSWxSB8LdsUVwPaqRWOcGOP92biry2JEwc0KJMdLJF+aZdczeIdEXVwEyv4nSVMQJH0o8tLhyAMiR6VF0lw==",
       "path": "npgsql.entityframeworkcore.postgresql/10.0.0",
       "hashPath": "npgsql.entityframeworkcore.postgresql.10.0.0.nupkg.sha512"
+    },
+    "Scrutor/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wHWaroody48jnlLoq/REwUltIFLxplXyHTP+sttrc8P7+jkiVqf38afDidJNv4qgD/6zz2NKOYg06xLZ1bG7wQ==",
+      "path": "scrutor/7.0.0",
+      "hashPath": "scrutor.7.0.0.nupkg.sha512"
     },
     "System.CodeDom/6.0.0": {
       "type": "package",

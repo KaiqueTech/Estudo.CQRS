@@ -2,15 +2,9 @@
 {
     public class BaseModel
     {
-        public Guid Id { get; protected set; }
-        public DateTime CreatedAt { get; protected set; }
-        public DateTime UpdatedAt { get;protected set; }
-
-        public BaseModel()
-        {
-            Id = Guid.NewGuid();
-            CreatedAt = DateTime.UtcNow;
-        }
+        public Guid Id { get; protected set; } = Guid.NewGuid();
+        public DateTime CreatedAt { get; protected set; } = DateTime.UtcNow;
+        public DateTime? UpdatedAt { get; protected set; }
 
         public void SetUpdatedAt()
         {

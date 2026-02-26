@@ -8,6 +8,7 @@ D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net1
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.AssemblyInfoInputs.cache
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.AssemblyInfo.cs
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.csproj.CoreCompileInputs.cache
+D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.sourcelink.json
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGes.A96F8688.Up2Date
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\SnackGestor.Application.dll
 D:\Pessoal\Kaique\C#\Projetos\SnackGestor\SnackGestor.Application\obj\Debug\net10.0\refint\SnackGestor.Application.dll
